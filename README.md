@@ -15,11 +15,11 @@ Here are some ideas to get you started:-->
 <p>&nbsp;</p>
 
 - 👯 I’m looking to collaborate with Open source contributors and learn more about it....
-- 🤔 I’m looking for help 
-- 💬 Ask me about anything ..
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
- Hello every One
+- 🤔 I’m looking for help in Web development .. 
+- 💬 Ask me about Anything ..
+- how to reach me :- minj25ayush@gmail.com
+- ⚡ Fun fact: *Alexa is always listening to your conversations.*
+ 
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
